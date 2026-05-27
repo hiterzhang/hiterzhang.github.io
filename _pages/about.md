@@ -32,7 +32,7 @@ redirect_from:
 
 
 # 🔥 News
-- explore EQF-VIO and Pose-Only
+- Exploring EQF-VIO and Pose-Only
 
 # 📝 Publications 
 - To be done
