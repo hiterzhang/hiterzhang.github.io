@@ -44,5 +44,5 @@ redirect_from:
 - To be done
 
 # 📖 Educations
-- *2025.09 - Present*, M.S. in Control Science and Engineering, School of Intelligent Science, National University of Defense University
-- *2021.09 - 2025.06*, B.S. in  Automation, School of Astronautics, Harbin Institute of Technology
+- *2025.09 - Present*, M.S. in Control Science and Engineering, Institute of Intelligent Science, National University of Defense University
+- *2021.09 - 2025.06*, B.S. in  Automation, Institute of Astronautics, Harbin Institute of Technology
