@@ -32,7 +32,10 @@ redirect_from:
 
 
 # 🔥 News
-- Exploring EQF-VIO and Pose-Only
+- Explored EQF-VIO and Pose-Only
+- Exploring Omini-SLAM
+- Exploring Feature Matching
+- Recently exploring Differential Flatness about multirotors
 
 # 📝 Publications 
 - To be done
